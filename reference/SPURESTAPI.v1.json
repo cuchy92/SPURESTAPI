@@ -2,7 +2,8 @@
   "openapi": "3.0.0",
   "info": {
     "title": "SPURESTAPI",
-    "version": "1.0"
+    "version": "1.0",
+    "description": "SPU REST API. \n\nSupported operations:\n- GET\n  - GetAllOrganizationUnits\n  - GetOrganizationUnitByCode\n- POST\n  - SetOrganizationUnitByCode\n\nObject Model:\n- OrganizationUnitModel\n\nUse OTHER option in left menu for more details"
   },
   "servers": [],
   "paths": {
